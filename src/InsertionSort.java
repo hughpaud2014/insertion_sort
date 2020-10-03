@@ -1,3 +1,7 @@
+// Coded by: Paul Hughes
+// Date: 10/3/2020
+// Referenced from: "The Algorithm Design Manual" by Steven S. Skiena
+
 class InsertionSort {
     void sort(int array[]) {
         int n = array.length;
